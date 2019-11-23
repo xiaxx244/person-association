@@ -7,3 +7,8 @@
 -modify the OutPath, image_dir and the text_dir in the demo.py file according to the path where you want to save the results, where you put the image file folder and where you put the pose keypoints file.
 - run python demo.py
 
+### Acknowledgements
+- https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch
+- https://github.com/CMU-Perceptual-Computing-Lab/openpose
+- https://github.com/huanghoujing/person-reid-triplet-loss-baseline.git
+- https://github.com/KaiyangZhou/deep-person-reid
