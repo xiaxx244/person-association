@@ -10,5 +10,5 @@
 ### Acknowledgements
 - https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch
 - https://github.com/CMU-Perceptual-Computing-Lab/openpose
-- https://github.com/huanghoujing/person-reid-triplet-loss-baseline.git
+- https://github.com/huanghoujing/person-reid-triplet-loss-baseline
 - https://github.com/KaiyangZhou/deep-person-reid
