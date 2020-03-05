@@ -8,7 +8,7 @@
 - run python demo.py
 
 ### Results
-<img src="pool1.png" width=40% height=40%> <img src="pool2.png" width=40% height=40%>
+<img src="pool1.png" width=40% height=40%>            <img src="pool2.png" width=40% height=40%>
 ### Acknowledgements
 - https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch
 - https://github.com/CMU-Perceptual-Computing-Lab/openpose
