@@ -8,8 +8,8 @@
 - run python demo.py
 
 ### Results
-![](img/pool1.png)
-![](img/pool2.png)
+![](pool1.png)
+![](pool2.png)
 ### Acknowledgements
 - https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch
 - https://github.com/CMU-Perceptual-Computing-Lab/openpose
