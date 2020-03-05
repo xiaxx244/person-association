@@ -1,4 +1,4 @@
-# Person association 
+# Pose association 
 - Implementations of **Pose Association** for person re-identification
 
 ### Usage
