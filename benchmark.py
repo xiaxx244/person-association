@@ -51,7 +51,6 @@ def getREID(p1, p2):
     return [res1, res2, res3, res4]
 def association_pairs(total_p):
     i=1
-    vec4=[]
     im1=cv2.imread(total_p[0][0][0])
     vec3=[]
     for m in range(len(total_p[0])):
